@@ -1,0 +1,21 @@
+
+/* ! base css star */
+*{
+    margin: 0;
+}
+body{
+    height: 100vh;
+}
+
+/* ! base css end */
+.navbar{
+    background-color: #000;
+    height: 60px;
+    color: white;
+}
+.sidebar{
+    background-color: #000;
+    color: white;
+    height: 100%;
+    width: 50px;
+}
